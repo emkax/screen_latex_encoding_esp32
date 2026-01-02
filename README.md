@@ -2,7 +2,7 @@
 
 A **standalone ESP32 display program** that parses **LaTeX-style mathematical expressions** and renders them on a **160×80 ST7735 TFT screen** using **Unicode bitmap fonts**.
 
-This project focuses **only on LaTeX-style text processing and display** — no camera, no AI, no networking logic required to understand or use this code.
+This project focuses **only on LaTeX-style text processing and display**
 
 ---
 
