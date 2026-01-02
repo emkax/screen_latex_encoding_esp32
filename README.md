@@ -167,8 +167,8 @@ Rendered output:
 
 ```
 (a² + b²)/c₁ = √(x)
-![Rendered LaTeX on TFT](examples/example1.jpeg)
 ```
+![Rendered LaTeX on TFT](examples/example1.jpeg)
 
 ---
 
